@@ -28,22 +28,18 @@ box-sizing: inherit;
     font-family: Montserrat, sans-serif;
     font-size: 3rem;
     text-align: center;
-    
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 
 
-.imageone {
+.billboard {
     width: 100%;
-    margin: 0;
+    height: 80%;
     
 }
 
-.masthead {
-
-
-    
-}
 
 body { 
     margin: 0;
@@ -51,25 +47,30 @@ body {
 }
 
 h2 {
-    font size: 1.5rem;
     font-family: Montserrat, sans-serif;
+    font-size: 2rem;
     text-transform: uppercase;
     text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
 
     
 }
 
     .boxone {
     width: 100%;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
+    margin-top: 2em;
     
 }
 
 h3 {
     text-transform: uppercase;
     font-family: Montserrat, sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .nav {
@@ -77,6 +78,13 @@ h3 {
     margin: 0;
     padding: 0;
     text-align: center;
+    margin-bottom: 2em;   
+    
+}
+    
+p {
+    margin-bottom: 1em;
+    margin-left: 1em;
     
 }
 
@@ -84,6 +92,11 @@ h3 {
 main {
     padding: 1em;
 
+}
+
+li {
+    text-decoration-color: black;
+    
 }
 
 .wrapper {
@@ -100,10 +113,14 @@ main {
         
     }
     
+    .billboard {
+        width: 100%;
+    }
+    
     .boxone {
         float: left;
         width: 50%;
-        padding: 0.5rem;
+        padding: 1rem;
         
         
     }
@@ -126,7 +143,12 @@ main {
 
 }
 
-    .boxone {
+    .billboard {
+        width: 100%;
+        max-height: 600px;
+        height: 100%;
+        
+    }
        
 
 
