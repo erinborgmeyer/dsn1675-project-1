@@ -94,10 +94,6 @@ main {
 
 }
 
-li {
-    text-decoration-color: black;
-    
-}
 
 .wrapper {
     max-width: 40em;
@@ -107,6 +103,7 @@ li {
 
 a {
     text-decoration: none;
+    text-decoration-color: black;
 
 @media only screen and (min-width: 35em) {
     
