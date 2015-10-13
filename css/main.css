@@ -35,7 +35,7 @@ box-sizing: inherit;
 
 
 .billboard {
-    width: 100%;
+    width: auto;
     height: 80%;
     max-height: 450px;
     
@@ -133,7 +133,7 @@ a {
     }
     
    .billboard {
-    width: 110%;
+    width: auto;
     height: 100%;
     max-height: 700px;
     
@@ -163,7 +163,7 @@ a {
 
 
     .billboard {
-        width: 100%;
+        width: auto;
         max-height: 700px;
         height: 100%;
         
