@@ -120,12 +120,13 @@ a {
 @media only screen and (min-width: 35em) {
     
     html {
-        font-size: 110%;
+        font-size: 120%;
         line-height: 1.4rem;        
         
     }
     
     .title {
+        font-size: 3rem;
         margin-bottom: 1em;
         margin-top: 1em;
             
@@ -169,8 +170,12 @@ a {
     
     .title {
         margin-bottom: .25em;
-        margin-top: .25em
-        
+        margin-top: .25em;
+        margin-left: .25em;
+        position: fixed;
+        padding: .25em;
+        font-size: 3.5rem;
+    
     }
     
     
