@@ -122,11 +122,19 @@ a {
     
     html {
         font-size: 120%;
-        line-height: 1.4rem;        
-        
-
+        line-height: 1.4rem; 
             
     }
+    
+   .logo {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    height: 10%;
+    display: block;
+    float: none;
+    margin: auto;
+
+}
     
    .billboard {
     width: 100%;
