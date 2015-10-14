@@ -172,6 +172,16 @@ a {
         
     }
     
+       .logo {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    height: 15%;
+    display: block;
+    float: none;
+    margin: auto;
+
+    }
+    
     .title {
         margin-bottom: .25em;
         margin-top: .25em;
