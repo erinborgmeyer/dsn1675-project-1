@@ -24,9 +24,10 @@ box-sizing: inherit;
 }
 
 .logo {
+    height: 70px;
+    width: 70px;
     padding-top: 1em;
     padding-bottom: 1em;
-    height: 7%;
     display: block;
     float: none;
     margin: auto;
@@ -127,9 +128,10 @@ a {
     }
     
    .logo {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    height: 10%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    height: 100px;
+    width: 100px;
     display: block;
     float: none;
     margin: auto;
@@ -183,9 +185,10 @@ a {
     }
     
        .logo {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    height: 15%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    height: 120px;
+    width: 120px;
     display: block;
     float: none;
     margin: auto;
